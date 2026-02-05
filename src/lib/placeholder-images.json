@@ -1,3 +1,46 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-dashboard",
+      "description": "A clean modern software dashboard showing analytics and growth charts.",
+      "imageUrl": "https://images.unsplash.com/photo-1768293336571-c48f8765a82d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMGRhc2hib2FyZHxlbnwwfHx8fDE3NzAxODgxOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "software dashboard"
+    },
+    {
+      "id": "feature-automation",
+      "description": "Visual representation of workflow automation.",
+      "imageUrl": "https://images.unsplash.com/photo-1711006155490-ec01a0ecf0de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhdXRvbWF0aW9uJTIwcHJvY2Vzc3xlbnwwfHx8fDE3NzAyOTU2MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "automation process"
+    },
+    {
+      "id": "feature-analytics",
+      "description": "Real-time data visualization and reports.",
+      "imageUrl": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkYXRhJTIwYW5hbHl0aWNzfGVufDB8fHx8MTc3MDI0MDAzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data analytics"
+    },
+    {
+      "id": "customer-logo-1",
+      "description": "Tech company logo placeholder.",
+      "imageUrl": "https://images.unsplash.com/photo-1687523327554-fa9f50423489?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjb21wYW55JTIwbG9nb3xlbnwwfHx8fDE3NzAyNjY3NTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "customer-logo-2",
+      "description": "Tech company logo placeholder.",
+      "imageUrl": "https://images.unsplash.com/photo-1517602302552-471fe67acf66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxicmFuZCUyMGxvZ298ZW58MHx8fHwxNzcwMjEwMjQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "brand logo"
+    },
+    {
+      "id": "customer-logo-3",
+      "description": "Tech company logo placeholder.",
+      "imageUrl": "https://images.unsplash.com/photo-1765551097125-7b63cc19db13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29ycG9yYXRlJTIwbG9nb3xlbnwwfHx8fDE3NzAyOTU2MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "corporate logo"
+    },
+    {
+      "id": "about-team",
+      "description": "Diverse team working together in a modern office.",
+      "imageUrl": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0ZWFtJTIwd29ya2luZ3xlbnwwfHx8fDE3NzAyMzE1OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "team working"
+    }
+  ]
 }
