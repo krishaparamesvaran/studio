@@ -1,4 +1,6 @@
 
+"use client";
+
 import Link from "next/link";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
@@ -146,9 +148,12 @@ export default function Home() {
                   </li>
                 ))}
               </ul>
-              <Button size="lg" className="bg-primary text-white hover:bg-primary/90">
-                Discover Solutions <ArrowRight className="ml-2 w-5 h-5" />
-              </Button>
+              
+              <Link href="/product">
+                <Button size="lg" className="bg-primary text-white hover:bg-primary/90">
+                  Discover Solutions <ArrowRight className="ml-2 w-5 h-5" />
+                </Button>
+              </Link>
             </div>
             <div className="relative h-[500px] w-full bg-white/5 rounded-2xl border border-white/10 p-8 flex items-center justify-center">
               {/* Abstract graphic or feature visual */}
@@ -183,12 +188,16 @@ export default function Home() {
               Join thousands of teams who trust Fortumars to power their daily operations.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button size="lg" className="px-10 h-14 text-lg">
-                Get Started Now
-              </Button>
-              <Button size="lg" variant="outline" className="px-10 h-14 text-lg">
-                Talk to Sales
-              </Button>
+              <Link href="/signup">
+                <Button size="lg" className="px-10 h-14 text-lg">
+                  Get Started Now
+                </Button>
+              </Link>
+              <Link href="/contact">
+                <Button size="lg" variant="outline" className="px-10 h-14 text-lg">
+                  Talk to Sales
+                </Button>
+              </Link>
             </div>
           </div>
         </section>
